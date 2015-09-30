@@ -1,0 +1,11 @@
+.metadata
+target
+.settings
+.project
+.classpath
+.checkstyle
+*.iml
+.idea
+node_modules
+npm-debug.log
+
